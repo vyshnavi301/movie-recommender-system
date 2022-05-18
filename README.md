@@ -4,7 +4,7 @@
 
 2) Backend Programming - The entire backend programming has been done in python, using pandas, numpy, etc.
 
- 3)Cleaning and Organizing the data.
+  3) Cleaning and Organizing the data.
 
 4) Building a Recommender System based on Content Based Filtering.
 
