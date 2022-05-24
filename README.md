@@ -36,8 +36,13 @@ we used Cosine Similarity to Build the Recommender.
 
 Cosine similarity is a metric used to measure how similar two items are. Mathematically it calculates the cosine of the angle between two vectors projected in a multidimensional space. Cosine similarity is advantageous when two similar documents are far apart by Euclidean distance(size of documents) chances are they may be oriented closed together. The smaller the angle, higher the cosine similarity.
 
+![image](https://user-images.githubusercontent.com/67514404/170027057-a969e55a-244b-47df-81d7-6131bc2ae9ec.png)
+
 
 5) UI - The User Interface was built based on python module called Streamlit.
 
 6) Hosting the App on Heroku.
 ## Results
+![Screenshot (2825)](https://user-images.githubusercontent.com/67514404/170027109-0c1cea4b-ec61-460e-a076-e028cfc369b8.png)
+
+
