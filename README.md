@@ -32,6 +32,7 @@ The development of this app inclues four stages
 3) Cleaning and Organizing the data.
 
 4) Building a Recommender System based on Content Based Filtering.
+
 we used Cosine Similarity to Build the Recommender.
 
 Cosine similarity is a metric used to measure how similar two items are. Mathematically it calculates the cosine of the angle between two vectors projected in a multidimensional space. Cosine similarity is advantageous when two similar documents are far apart by Euclidean distance(size of documents) chances are they may be oriented closed together. The smaller the angle, higher the cosine similarity.
