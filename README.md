@@ -43,3 +43,7 @@ Cosine similarity is a metric used to measure how similar two items are. Mathema
 5) UI - The User Interface was built based on python module called Streamlit.
 
 6) Hosting the App on Heroku.
+
+Results
+![Screenshot (2825)](https://user-images.githubusercontent.com/67514404/170026114-e59f0c38-493d-4fb2-bb5a-cadfabbdac9c.png)
+
